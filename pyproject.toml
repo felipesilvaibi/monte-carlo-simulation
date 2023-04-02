@@ -8,7 +8,6 @@ packages = [{include = "monte_carlo_simulation"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-seaborn = "^0.12.2"
 matplotlib = "^3.7.1"
 
 
